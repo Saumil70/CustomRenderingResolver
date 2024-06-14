@@ -58,6 +58,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Pipeline\CreateApiItemProcessor.cs" />
     <Compile Include="RenderingResolvers\CustomBlogResolver.cs" />
     <Compile Include="RenderingResolvers\CustomHeaderResolver.cs" />
     <Compile Include="RenderingResolvers\NavigationDataResolver.cs" />
